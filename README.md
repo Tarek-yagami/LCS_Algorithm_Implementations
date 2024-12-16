@@ -152,4 +152,5 @@ Ce projet est à des fins éducatives.
 
 ---
 **Auteur** : Benameur Tarek , Touil Nihel  
+**Cours** : High Performance Computing (HPC)
 
