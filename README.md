@@ -151,8 +151,5 @@ Les temps d'exécution pour chaque implémentation sont comparés pour différen
 Ce projet est à des fins éducatives.
 
 ---
-
 **Auteur** : Benameur Tarek , Touil Nihel  
-**Cours** : High Performance Computing (HPC)
-**Enseignant** : Haichour Amina Selma
-**Date** : 12/16/2024
+
